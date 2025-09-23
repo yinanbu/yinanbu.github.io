@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 Welcome! I'm a senior student at [School of the Gifted Young](https://en.scgy.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://en.ustc.edu.cn/). My major is Statistics.
-======
+
 
