@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Research Experiences
 ======
 
 **Efficient Synthetic Network Generation via Latent Embedding Reconstruction**  
