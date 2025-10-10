@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [click here to download the pdf version](/files/CV_Yinan_Bu.pdf)
 
 Education
