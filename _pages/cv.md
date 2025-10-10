@@ -16,7 +16,7 @@ Education
 * **B.Sc. in Statistics**, **University of Science and Technology of China (USTC)** — School of the Gifted Young, Hefei, China  
   *Sep. 2022 – Jul. 2026 (expected)*
   * **GPA:** 4.02/4.30 (92.33/100); **Major GPA:** 4.12/4.30 (93.63/100)  
-  * **Ranking:** 3 / 116 among statistics majors (across **School of Management** and **School of the Gifted Young**); **1st** among female students (across **School of Management**, **School of the Gifted Young**, and **School of Mathematical Sciences**).  
+  * **Ranking:** 3 / 116 across **School of Management** and **School of the Gifted Young**; **1st** among female students (across **School of Management**, **School of the Gifted Young**, and **School of Mathematical Sciences**).  
   * Outperformed all other statistics majors in the **School of Management**.
 
 Research interests
