@@ -18,5 +18,6 @@ During my undergraduate time in USTC, I served as a teaching assistant for the f
 
 * **Linear Algebra I**  
   *Mar. 2025 – Jun. 2025*  
-  Instructor: Prof. Junchao Shentu
+  Instructor: Prof. Junchao Shentu  
+  [Assignment Answers (PDF)](/files/linear_algebra_assignments.pdf)
 
