@@ -16,8 +16,13 @@ I served as a **flute player in the university’s Chinese orchestra** from my f
 During the same period, I was also an **active member of the School of the Gifted Young’s football team**.  
 I enjoy playing football not only as a way to exercise, but also for the pure joy of scoring goals and sharing that excitement with my teammates. 
 
-![](/images/football.png)
-*Night training with my teammates.*
+<figure>
+  <img src="/images/football.png" alt="Night training with my teammates." style="max-width:70%; border-radius:10px;">
+  <figcaption style="text-align:center; font-style:italic;">
+    Night training with my teammates.
+  </figcaption>
+</figure>
+
 
 In addition, I was a **member of the debate team**, where I practiced critical thinking, public speaking, and collaborative argumentation.  
 
