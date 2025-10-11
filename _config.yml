@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Yinan Bu"
   pronouns         : # example: "she/her"  
-  bio              : "Senior in Statistics (School of the Gifted Young, USTC). Summer research @ UMich Stats."
+  bio              : "Senior in Statistics (School of the Gifted Young, USTC). \n Summer research @ UMich Stats."
   # location         : ""
-  employer         : "University of Science and Technology of China"
+  employer         : "USTC"
   uri              : "yinanbu.github.io"# URL
   email            : "ynbu1002@gmail.com" 
 
