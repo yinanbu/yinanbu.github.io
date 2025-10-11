@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching Experiences
-======
 
 During my undergraduate time in USTC, I served as a teaching assistant for the following courses:
 
