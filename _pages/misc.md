@@ -11,8 +11,8 @@ My undergraduate years in USTC
 ======
 
 From 2022 to 2025, I was actively engaged in a variety of activities outside of my coursework.  
-I served as a **flute player in the university’s Chinese orchestra**.  
 
+I served as a **flute player in the university’s Chinese orchestra** from my freshman year to present.  
 During the same period, I was also an **active member of the School of the Gifted Young’s football team**.  
 I enjoy playing football not only as a way to exercise, but also for the pure joy of scoring goals and sharing that excitement with my teammates. 
 
