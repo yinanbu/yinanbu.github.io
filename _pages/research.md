@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-======
 
 **Efficient Synthetic Network Generation via Latent Embedding Reconstruction**  
 *Jul. 2025 – Present*  
