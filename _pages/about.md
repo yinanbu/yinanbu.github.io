@@ -17,5 +17,5 @@ In the summer of 2025, I spent a wonderful time at the University of Michigan, w
 
 **I am applying for a PhD position in Statistics/Biostatistics/Data Science for Fall 2026.**
 
-- Please check my [CV](files/CV_Yinan_Bu.pdf) for more information.  
+- Please check my [CV](/files/CV_Yinan_Bu.pdf) for more information.  
 - Please feel free to contact me at [ynbu1002@gmail.com].  
