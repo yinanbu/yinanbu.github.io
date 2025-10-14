@@ -15,3 +15,7 @@ During my undergraduate study at USTC, I had the honor to work with Prof. [Xueqi
 
 In the summer of 2025, I spent a wonderful time at the University of Michigan, working with Prof. [Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/) and Prof. [Gongjun Xu](https://sites.google.com/umich.edu/gongjunxu) on **synthetic network generation and latent space models**. Collaborating with them has been an inspiring and rewarding experience, which broadened my vision and strengthened my passion for research.  
 
+**I am applying for a PhD position in Statistics/Biostatistics/Data Science for Fall 2026.**
+
+- Please check my [CV](files/CV_Yinan_Bu.pdf) for more information.  
+- Please feel free to contact me at [ynbu1002@gmail.com].  
