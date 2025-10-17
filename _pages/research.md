@@ -12,9 +12,9 @@ author_profile: true
 *Jul. 2025 – Present*  
 Advisors: [Prof. Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/) (Susan A. Murphy Collegiate Professor, Statistics, UMich) and [Prof. Gongjun Xu](https://lsa.umich.edu/stats/people/faculty/GongjunXu.html) (Professor, Statistics, UMich)
 
-- Developed **SyNGLER**, an efficient framework combining latent space network models with a distribution-free generator over learned node embeddings.  
-- Built scalable pipelines for **SyNGLER-Diff** (diffusion-based) and **SyNGLER-Res** (bootstrap-based), preserving key network characteristics while reducing training cost.  
-- Conducted empirical studies on simulated and real datasets, showing that SyNGLER preserves structure more faithfully than existing approaches.
+- Developed a general, efficient framework for generating synthetic networks by combining latent space network models with a distribution-free generator over learned latent embeddings.
+- Built scalable pipelines for a diffusion-based latent embedding generator and a bootstrap-based latent embedding resampler, preserving key network characteristics while enabling efficient training with lower computational cost than many existing deep architectures[https://github.com/SyNGLER/SyNGLER](GitHub repository)
+- Conducted empirical studies on both simulated datasets and real-world datasets, showing that the proposed method efficiently generates networks that more faithfully preserve key characteristics than existing approaches.
 
 ---
 
@@ -22,9 +22,9 @@ Advisors: [Prof. Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/) (Susan A. Murp
 *Apr. 2024 – Present*  
 Advisor: [Prof. Xueqin Wang](https://bs.ustc.edu.cn/english/profile-650.html) (Chair Professor, Statistics and Finance, USTC)
 
-- Derived asymptotic information loss in vanilla HDC and developed Hoeffding bounds for hypervector similarity and predictive accuracy.  
-- Designed **FSHDC**, a scalable model for fast classification and interpretation; applied to UK Biobank fMRI/MRI with +0.20 AUROC over vanilla HDC.  
-- Integrated an attention mechanism into HDC training, improving accuracy by **30%** on HAR vs. vanilla HDC and **15%** vs. attention-only baseline.
+- Derived asymptotic information loss in vanilla **H**yper**d**imensional **C**omputing(**HDC**) and developed Hoeffding bounds for hypervector similarity and predictive accuracy.  
+- Designed **F**eature-**S**ubspace based **H**yper**d**imensional **C**omputing(**FSHDC**), a scalable model for fast classification and interpretation; applied to UK Biobank fMRI/MRI with **+0.20** AUROC over vanilla HDC.  
+- Integrated an **attention** mechanism into HDC training, improving accuracy by **30%** on HAR vs. vanilla HDC and **15%** vs. attention-only baseline.
 
 ---
 
@@ -33,7 +33,7 @@ Advisor: [Prof. Xueqin Wang](https://bs.ustc.edu.cn/english/profile-650.html) (C
 Advisor: [Prof. Xueqin Wang](https://bs.ustc.edu.cn/english/profile-650.html) (Chair Professor, Statistics and Finance, USTC)
 
 - Worked on graph trend filtering (ℓ₁ minimization on graph differences) using ADMM; studied convergence vs. subproblem solvability trade-off.  
-- Proposed **Doge-ADMM** (Differential Operator Grouping–based ADMM) with closed-form subproblems and parallel updates.  
+- Proposed **D**ifferential **O**perator **G**rouping–bas**e**d ADMM(**Doge-ADMM**) with closed-form subproblems and parallel updates.  
 - Built parallel implementations for first/second-order cases, achieving up to **30× speedup** over existing methods ([GitHub repo](https://github.com/byn1002/Doge-ADMM)).
 
 ---
