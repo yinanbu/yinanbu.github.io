@@ -13,7 +13,7 @@ author_profile: true
 Advisors: [Prof. Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/) (Susan A. Murphy Collegiate Professor, Statistics, UMich) and [Prof. Gongjun Xu](https://lsa.umich.edu/stats/people/faculty/GongjunXu.html) (Professor, Statistics, UMich)
 
 - Developed a general, efficient framework for generating synthetic networks by combining latent space network models with a distribution-free generator over learned latent embeddings.
-- Built scalable pipelines for a diffusion-based latent embedding generator and a bootstrap-based latent embedding resampler, preserving key network characteristics while enabling efficient training with lower computational cost than many existing deep architectures[https://github.com/SyNGLER/SyNGLER](GitHub repository)
+- Built scalable pipelines for a diffusion-based latent embedding generator and a bootstrap-based latent embedding resampler, preserving key network characteristics while enabling efficient training with lower computational cost than many existing deep architectures[GitHub repository](https://github.com/SyNGLER/SyNGLER)
 - Conducted empirical studies on both simulated datasets and real-world datasets, showing that the proposed method efficiently generates networks that more faithfully preserve key characteristics than existing approaches.
 
 ---
