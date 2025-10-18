@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a senior student at [School of the Gifted Young](https://en.scgy.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://en.ustc.edu.cn/). My major is Statistics.
+Welcome! I'm a senior student at [School of the Gifted Young](https://en.scgy.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://en.ustc.edu.cn/). My major is Statistics. My first name can be pronounced as /jiː-nɑn/. My name in Chinese is 卜一楠.  
 
 My research interests broadly span **Network Analysis, Statistical Machine Learning, Biostatistics, and Optimization Theory**. I aim to develop statistical methodologies that provide efficient and interpretable solutions for analyzing large-scale, complex datasets.  
 
