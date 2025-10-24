@@ -9,7 +9,7 @@ author_profile: true
 
 Publication
 ======
-- **Efficient synthetic network generation via latent embedding reconstruction.**
+- **Efficient synthetic network generation via latent embedding reconstruction.**  
   F. Jiang, **Y. Bu**, S. Wu, G. Xu, J. Zhu.
   
 Research Projects
