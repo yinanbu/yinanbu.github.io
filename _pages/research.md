@@ -7,7 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-
+Publication
+======
+- **Efficient synthetic network generation via latent embedding reconstruction.**
+  F. Jiang, **Y. Bu**, S. Wu, G. Xu, J. Zhu.
+  
+Research Projects
+======
 **Efficient Synthetic Network Generation via Latent Embedding Reconstruction**  
 *Jul. 2025 – Present*  
 Advisors: [Prof. Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/) (Susan A. Murphy Collegiate Professor, Statistics, UMich) and [Prof. Gongjun Xu](https://lsa.umich.edu/stats/people/faculty/GongjunXu.html) (Professor, Statistics, UMich)
