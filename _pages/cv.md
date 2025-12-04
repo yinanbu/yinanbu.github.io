@@ -17,11 +17,11 @@ Education
   *Sep. 2022 – Jul. 2026 (expected)*
   * **GPA:** 4.02/4.30 (92.33/100); **Major GPA:** 4.12/4.30 (93.63/100)  
   * **Ranking:** 3/116 across **School of Management** and **School of the Gifted Young**; **1st** among female students (across **School of Management**, **School of the Gifted Young**, and **School of Mathematical Sciences**).  
-  * Outperformed all other statistics majors in the **School of Management**.
+  * 1st in statistics majors in the **School of Management**.
 
 Research interests
 ======
-* Network Analysis, Statistical Machine Learning, Biostatistics, Optimization Theory
+* Network Analysis, Statistical Machine Learning, Biostatistics, Optimization
 
 Skills
 ======
