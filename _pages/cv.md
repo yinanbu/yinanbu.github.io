@@ -40,22 +40,21 @@ Awards & Honors
 
 Core Courses
 ======
-**Mathematics**
-* Mathematical Analysis I (95), II (92), III (93)
-* Linear Algebra I (93), II (91), Differential Equations (93)
-* Real Analysis (86), Complex Analysis (95), Functional Analysis (99)
 
 **Probability and Statistics**
 * Probability (91), Mathematical Statistics (91), Applied Stochastic Processes (94)
 * Regression Analysis (98), Multivariate Analysis A (96), Time Series Analysis A (96)
 * Non-parametric Statistics (95)
 
-**Learning, Optimization & Games**
+**Mathematics**
+* Mathematical Analysis I (95), II (92), III (93)
+* Linear Algebra I (93), II (91), Differential Equations (93)
+* Real Analysis (86), Complex Analysis (95), Functional Analysis (99)
+
+**Machine Learning, Computing & Other Courses:**
 * Machine Learning (92)
 * Fundamentals of Statistical Algorithm (94)
 * A Primer in Game Theory (93)
-
-**Computer Science**
 * C Programming Language (95)
 * Applied Statistical Software (96)
 
