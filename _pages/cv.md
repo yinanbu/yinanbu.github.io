@@ -21,7 +21,7 @@ Education
 
 Research interests
 ======
-* Statistical Machine Learning, Network Analysis, Biostatistics, Generative Modeling, Optimization
+* Generative Modeling, Statistical Machine Learning, Network Analysis
 
 Skills
 ======
