@@ -10,8 +10,7 @@ author_profile: true
 Publication
 ======
  **Efficient synthetic network generation via latent embedding reconstruction.**  
-    F. Jiang, **Y. Bu**, S. Wu, G. Xu, J. Zhu.  
-    *(Under review)*
+    F. Jiang, **Y. Bu**, S. Wu, G. Xu, J. Zhu. The Forty-third International Conference on Machine Learning (ICML), 2026.
   
 Research Projects 
 ======
