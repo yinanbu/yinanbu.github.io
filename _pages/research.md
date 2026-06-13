@@ -10,7 +10,7 @@ author_profile: true
 Research Projects 
 ======
 **Efficient Synthetic Network Generation via Latent Embedding Reconstruction**  
-*Jul. 2025 – Present*  
+*Jul. 2025 – Dec. 2025*  
 Advisors: [Prof. Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/) (Susan A. Murphy Collegiate Professor, Statistics, UMich) and [Prof. Gongjun Xu](https://lsa.umich.edu/stats/people/faculty/GongjunXu.html) (Professor, Statistics, UMich)
 
 - Developed a general, efficient framework for generating synthetic networks by combining latent space network models with a distribution-free generator over learned latent embeddings.
@@ -20,7 +20,7 @@ Advisors: [Prof. Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/) (Susan A. Murp
 ---
 
 **Machine Learning and Hyperdimensional Computing**  
-*Apr. 2024 – Present*  
+*Apr. 2024 – Apr. 2026*  
 Advisor: [Prof. Xueqin Wang](https://bs.ustc.edu.cn/english/profile-650.html) (Chair Professor, Statistics and Finance, USTC)
 
 - Derived asymptotic information loss in vanilla **H**yper**d**imensional **C**omputing(**HDC**) and developed Hoeffding bounds for hypervector similarity and predictive accuracy.  
