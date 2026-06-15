@@ -19,7 +19,7 @@ Advisors: [Prof. Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/) (Susan A. Murp
 
 ---
 
-**Machine Learning and Hyperdimensional Computing**  
+**Feature-Subspace Based Hyperdimensional Computing**  
 *Apr. 2024 – Apr. 2026*  
 Advisor: [Prof. Xueqin Wang](https://bs.ustc.edu.cn/english/profile-650.html) (Chair Professor, Statistics and Finance, USTC)
 
