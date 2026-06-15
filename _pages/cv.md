@@ -34,7 +34,7 @@ Skills
 
 Awards & Honors
 ======
-* **China National Scholarship** — highest scholarship from the Ministry of Education of China *(2025)*
+* **Guo Moruo Scholarship Nomination** — most prestigious scholarship at USTC *(2025)*
 * **Yang Ya Alumni Fund Scholarship** — top 5 female students in the School of the Gifted Young *(2024)*
 * **Excellent Student Scholarship — Silver** — top 10% *(2023)*
 
@@ -51,8 +51,7 @@ Core Courses
 * Linear Algebra I (93), II (91), Differential Equations (93)
 * Real Analysis (86), Complex Analysis (95), Functional Analysis (99)
 
-**Machine Learning, Computing & Other Courses:**
-* Machine Learning (92)
+**Other Courses:**
 * Fundamentals of Statistical Algorithm (94)
 * A Primer in Game Theory (93)
 * C Programming Language (95)
