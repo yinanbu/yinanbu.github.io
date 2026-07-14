@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_1.jpg"
   name             : "Yinan Bu"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming PhD student @ UC Berkeley, IEOR. \n Senior in Statistics (School of the Gifted Young, USTC)."
+  bio              : "Incoming PhD student @ UC Berkeley, IEOR. \n B.S. in Statistics @ School of the Gifted Young, USTC."
   # location         : ""
-  employer         : "USTC"
+  employer         : "UC Berkeley"
   uri              : "yinanbu.github.io"# URL
-  email            : "ynbu1002@gmail.com" 
+  email            : "yinan_bu@berkeley.edu" 
 
   # Academic websites
   academia         : # URL
