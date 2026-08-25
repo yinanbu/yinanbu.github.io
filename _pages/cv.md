@@ -13,6 +13,8 @@ redirect_from:
 
 Education
 ======
+* **Ph.D. in IEOR**, **University of California, Berkeley**.  
+  *Aug. 2026 - Jun. 2031(Expected)*
 * **B.Sc. in Statistics**, **University of Science and Technology of China (USTC)** — School of the Gifted Young, Hefei, China  
   *Sep. 2022 – Jul. 2026*
 
