@@ -3,6 +3,24 @@
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
+
+## Running locally
+
+```
+bundle exec jekyll build
+python3 -m http.server 4173 --bind 127.0.0.1 --directory _site
+```
+
+## Push to Github
+
+```
+git status
+git add .
+git commit -m "Update personal website"
+git push
+```
+
+
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
