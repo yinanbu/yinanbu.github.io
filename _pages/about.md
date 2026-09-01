@@ -9,7 +9,8 @@ redirect_from:
 
 Welcome! I'm currently a first year PhD student at [UC Berkeley@IEOR](https://ieor.berkeley.edu/). I did my undergraduate at [School of the Gifted Young](https://en.scgy.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://en.ustc.edu.cn/), majoring in Statistics. My first name can be pronounced as "jiː-nɑn", and my name in Chinese is 卜一楠.  
 
-My research interests broadly span **Large-scale Optimization, Optimization under Uncertainty, Statistical Machine Learning and Network Analysis**. I aim to develop methodologies that provide efficient and interpretable solutions for analyzing large-scale, complex datasets.  
+
+My research interests span broadly in statistics, optimization and machine learning, including reinforcement learning, diffusion models, distributed optimization, and statistical machine learning. 
 
 During my undergraduate study at USTC, I had the honor to work with Prof. [Xueqin Wang](https://bs.ustc.edu.cn/english/profile-650.html) on projects in **Hyperdimensional Computing and Large-Scale Optimization**. These experiences not only deepened my understanding of statistical methodology and computation, but also greatly enriched my academic journey.  
 
