@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+Hometown
+======
+
+I am originally from **Taizhou**, a small city located in the central part of **Jiangsu**.
+
+
 My undergraduate years in USTC
 ======
 
@@ -37,10 +43,7 @@ From historic cities to beautiful coastlines, each stop left me with unforgettab
 *My recent travel around east coast of the United States.*
 
 
-Hometown
-======
 
-I am originally from **Taizhou**, a small city located in the central part of **Jiangsu**.
 
 
 
