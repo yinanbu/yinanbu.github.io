@@ -21,7 +21,7 @@ Education
 
 Research interests
 ======
-* Large-scale Optimization, Optimization under Uncertainty, Statistical Machine Learning and Network Analysis
+* Reinforcement Learning, Diffusion Models, Stochastics Control
 
 Skills
 ======
@@ -34,7 +34,9 @@ Skills
 
 Awards & Honors
 ======
+* **Xingjian Scholarship** - alumni-funded scholarship recognizing excellence in athletics *(2026)*
 * **Guo Moruo Scholarship Nomination** — most prestigious scholarship at USTC *(2025)*
+* **China National Scholarship** - highest scholarship from Ministry of Education of China *(2025)*
 * **Yang Ya Alumni Fund Scholarship** — top 5 female students in the School of the Gifted Young *(2024)*
 * **Excellent Student Scholarship — Silver** — top 10% *(2023)*
 
